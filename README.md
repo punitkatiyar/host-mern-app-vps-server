@@ -16,3 +16,9 @@ step by step  guide to setup mern app on vps server
 > var/www/html/index.nginx-debian.html
 
 ## Setup node js and npm 
+
+> curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+
+> nvm install node
+
+> nvm install --lts 
