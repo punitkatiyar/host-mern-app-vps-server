@@ -9,4 +9,8 @@ step by step  guide to setup mern app on vps server
 
 > sudo systemctl start nginx
 
-> sudo systemctl enable nginx 
+> sudo systemctl enable nginx
+
+## Default Web Directory
+
+> var/www/html/index.nginx-debian.html
